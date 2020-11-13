@@ -39,16 +39,12 @@
 
 <br />
 <br />
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Github Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reksaandhika&count_private=true&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reksaandhika&count_private=true&show_icons=true&hide_border=true" />
 
-</details>
-
-<!-- [website]: https://codeSTACKr.com -->
+<!-- [website]: https://reksaandhika.com -->
 [linkedin]: https://www.linkedin.com/in/reksa-andhika/
 [facebook]: https://facebook.com/reksa.andhika
 [instagram]: https://instagram.com/reksaandhika
