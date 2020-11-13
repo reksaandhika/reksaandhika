@@ -37,16 +37,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
-### Github Stats
-
-[![Reksa Andhika's github stats](https://github-readme-stats.vercel.app/api?username=reksaandhika&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/reksaandhika/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reksaandhika&layout=compact)](https://github.com/reksaandhika/github-readme-stats)
 
+<br />
+<br />
+
+## Github Stats
+
+[![Reksa Andhika's github stats](https://github-readme-stats.vercel.app/api?username=reksaandhika&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/reksaandhika/github-readme-stats)
 
 <!-- [website]: https://reksaandhika.com -->
 [linkedin]: https://www.linkedin.com/in/reksa-andhika/
