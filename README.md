@@ -3,7 +3,7 @@
 ## I'm a Freelancer Web & App Developer
 
 - I’m currently freelancing, but also looking for job 😬
-- Live in Serang, Banten, Indonesia 🇮🇩
+- Live in Serang, Banten, Indonesia 🌍
 - 2020 Goals: Create website for winning on Awwwards 💻
 - Fun fact: Love playing strategy games 😎
 
