@@ -42,7 +42,8 @@
 
 ### Github Stats
 
-<img align="left" alt="Reksa Andhika GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reksaandhika&count_private=true&show_icons=true&hide_border=true" />
+[![Reksa Andhika's github stats](https://github-readme-stats.vercel.app/api?username=reksaandhika&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=graywhite)](https://github.com/reksaandhika/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reksaandhika&layout=compact)](https://github.com/reksaandhika/github-readme-stats)
 
