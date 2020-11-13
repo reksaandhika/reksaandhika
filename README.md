@@ -39,20 +39,12 @@
 
 <br />
 <br />
-
----
-
-### 🎧 Spotify Playing
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/an4s5t7xarrea062o8n3v6b5t)
----
-
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reksaandhika&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reksaandhika&count_private=true&show_icons=true&hide_border=true" />
 
 </details>
 
