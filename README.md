@@ -42,7 +42,10 @@
 
 ### Github Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reksaandhika&count_private=true&show_icons=true&hide_border=true" />
+<img align="left" alt="Reksa Andhika GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reksaandhika&count_private=true&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reksaandhika&layout=compact)](https://github.com/reksaandhika/github-readme-stats)
+
 
 <!-- [website]: https://reksaandhika.com -->
 [linkedin]: https://www.linkedin.com/in/reksa-andhika/
