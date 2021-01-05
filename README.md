@@ -7,6 +7,9 @@
 - 2021 Goals: Create website for winning on Awwwards 💻
 - Fun fact: Love playing strategy games 😎
 
+My website - [reksaandhika.com](https://reksaandhika.com/)
+
+
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
