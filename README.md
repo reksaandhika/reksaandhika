@@ -1,4 +1,4 @@
-### Hi 👋, I'm Reksa Andhika Pamungkas
+### Hi 👋 I'm Reksa Andhika Pamungkas
 
 ## I'm a Freelancer Web & Mobile App Developer
 
