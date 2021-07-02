@@ -22,6 +22,7 @@ My website - [reksaandhika.com](https://reksaandhika.com/)
 [<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/discord.svg" />][discord]
 [<img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/steam.svg" />][steam]
 [<img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/reddit.svg" />][reddit]
+[<img align="left" alt="Awwwards" width="22px" src="https://assets.awwwards.com/assets/images/logo-schema.png" />][awwwards]
 
 <br />
 
@@ -68,3 +69,4 @@ My website - [reksaandhika.com](https://reksaandhika.com/)
 [discord]: https://discord.com/users/409447589272879104/
 [steam]: https://steamcommunity.com/id/tahoboelat/
 [reddit]: https://www.reddit.com/user/kutuware
+[awwwards]: https://www.awwwards.com/reksaandhika/
