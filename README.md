@@ -4,7 +4,7 @@
 
 - I'm currently freelancing, also looking for interesting job offers 😬
 - Live in Serang, Banten, Indonesia 🌍
-- 2021 Goals: Create website for winning on Awwwards 💻
+- 2022 Goals: Create website for winning on Awwwards 💻
 - Fun fact: Love playing strategy games 😎
 
 My website - [reksaandhika.com](https://reksaandhika.com/)
