@@ -12,16 +12,12 @@ My website - [reksaandhika.com](https://reksaandhika.com/)
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="Codepen" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/codepen.svg" />][codepen]
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/63851670950a28b42df5d73ddebcd65147b7c2cc/images/svg/instagram.svg" />][instagram]
-[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/63851670950a28b42df5d73ddebcd65147b7c2cc/images/svg/twitter.svg" />][twitter]
 [<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/discord.svg" />][discord]
 [<img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/steam.svg" />][steam]
-[<img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/reddit.svg" />][reddit]
 [<img align="left" alt="Awwwards" width="22px" src="https://assets.awwwards.com/assets/images/logo-schema.png" />][awwwards]
 
 <br />
