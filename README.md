@@ -1,13 +1,12 @@
 ### Hi 👋 I'm Reksa Andhika Pamungkas
 
-## I'm a Freelancer Web & Mobile App Developer
+## I'm a Freelancer Creative Website Developer
 
 - I'm currently freelancing, also looking for interesting job offers 😬
-- Live in Serang, Banten, Indonesia 🌍
+- Live in Banten, Indonesia, working globally 🌍
 - 2022 Goals: Create website for winning on Awwwards 💻
-- Fun fact: Love playing strategy games 😎
 
-My website - [reksaandhika.com](https://reksaandhika.com/)
+Portfolio - [reksaandhika.com](https://reksaandhika.com/)
 
 
 ### Connect with me:
@@ -45,12 +44,6 @@ My website - [reksaandhika.com](https://reksaandhika.com/)
 
 <br />
 <br />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reksaandhika&layout=compact)](https://github.com/reksaandhika/github-readme-stats) -->
-
-## Github Stats
-
-[![Reksa Andhika's github stats](https://github-readme-stats.vercel.app/api?username=reksaandhika&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/reksaandhika/github-readme-stats)
 
 <!-- [website]: https://reksaandhika.com -->
 [linkedin]: https://www.linkedin.com/in/reksa-andhika/
