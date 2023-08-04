@@ -27,7 +27,7 @@ Portfolio - [reksaandhika.com](https://reksaandhika.com/)
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Greensock (GSAP)" width="26px" src="https://avatars.githubusercontent.com/u/2386673?s=60&v=4" />
 <img align="left" alt="Astro" width="26px" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" />
-<img align="left" alt="Nuxt" width="26px" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" />
+<img align="left" alt="Nuxt" width="26px" src="https://avatars.githubusercontent.com/u/23360933?s=48&v=4" />
 <img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
 <img align="left" alt="Prismic" width="26px" src="https://avatars.githubusercontent.com/u/4621061?s=60&v=4" />
 <img align="left" alt="Shopify" width="26px" src="https://avatars.githubusercontent.com/u/8085?s=60&v=4" />
