@@ -4,7 +4,7 @@
 
 - I'm currently freelancing, also looking for interesting job offers 😬
 - Live in Banten, Indonesia, working globally 🌍
-- 2023 Goal: Winning SOTD on Awwwards 💻
+- ~~2023~~ 2024 Goal: Winning SOTD on Awwwards 💻
 
 Portfolio - [reksaandhika.com](https://reksaandhika.com/)
 
